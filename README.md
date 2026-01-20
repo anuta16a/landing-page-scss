@@ -4,7 +4,7 @@ A responsive one-page landing layout implemented based on an existing UI design.
 
 ## Scope
 - Semantic HTML structure
-- Responsive layout (desktop / mobile)
+- Responsive layout (desktop)
 - Styling only (no application logic)
 
 ## Tech Stack
